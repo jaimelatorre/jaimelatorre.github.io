@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#container{
+
+    height: 100%;
+    width:100%;
+    background: url("../media/img/MotisTren.jpg") ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+}
+
+#content{
+
+    height: 100%;
+    width:100%;
+    background-color: black;
+    position: absolute;
+    top: 100%;
+
+
+}
+
+#presentacion{
+    width: 50%;
+    height: 50%;
+    border: solid white 2px;
+    color: white;
+    text-align:center;
+
+
+}
+
+#presentacion h1{
+    font-family: 'Special Elite', cursive;
+}
+
+#presentacion h3, h4{
+    font-family: 'Special Elite', cursive;
+}
+
+.centradoVH{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.columnas{
+    flex-direction: column;
+}
