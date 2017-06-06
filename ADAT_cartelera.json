@@ -1,0 +1,121 @@
+{
+	"estado": "ok",
+	"actores": [{
+		"Codigo": "1",
+		"Nombre": "Paco Leon",
+		"F_nacimiento": "1974-11-06",
+		"Nacionalidad": "Espa\u00f1a"
+	}, {
+		"Codigo": "2",
+		"Nombre": "Antonio Banderas",
+		"F_nacimiento": "1968-10-08",
+		"Nacionalidad": "Espa\u00f1a"
+	}, {
+		"Codigo": "3",
+		"Nombre": "Fernando Tejero",
+		"F_nacimiento": "1967-02-01",
+		"Nacionalidad": "Espa\u00f1a"
+	}, {
+		"Codigo": "4",
+		"Nombre": "Alfredo Landa",
+		"F_nacimiento": "1933-03-04",
+		"Nacionalidad": "Espa\u00f1a"
+	}, {
+		"Codigo": "5",
+		"Nombre": "Antonio Resines",
+		"F_nacimiento": "1954-08-07",
+		"Nacionalidad": "Espa\u00f1a"
+	}, {
+		"Codigo": "6",
+		"Nombre": "Luis Merlo",
+		"F_nacimiento": "1966-06-13",
+		"Nacionalidad": "Espa\u00f1a"
+	}, {
+		"Codigo": "7",
+		"Nombre": "Imanol Arias",
+		"F_nacimiento": "1956-04-26",
+		"Nacionalidad": "Espa\u00f1a"
+	}],
+	"peliculas": [{
+		"Codigo": "1",
+		"Titulo": "Embarazada",
+		"Fecha": "2015-04-27",
+		"Presupuesto": "50.50"
+	}, {
+		"Codigo": "2",
+		"Titulo": "3 bodas de mas",
+		"Fecha": "2013-12-01",
+		"Presupuesto": "20.00"
+	}, {
+		"Codigo": "3",
+		"Titulo": "Los managers",
+		"Fecha": "2005-01-01",
+		"Presupuesto": "21.00"
+	}, {
+		"Codigo": "4",
+		"Titulo": "Cronica de un enganno",
+		"Fecha": "2010-07-05",
+		"Presupuesto": "15.00"
+	}, {
+		"Codigo": "5",
+		"Titulo": "Gato con botas",
+		"Fecha": "2011-03-12",
+		"Presupuesto": "25.00"
+	}, {
+		"Codigo": "6",
+		"Titulo": "Santos inocentes",
+		"Fecha": "1984-02-11",
+		"Presupuesto": "12.00"
+	}, {
+		"Codigo": "7",
+		"Titulo": "La flor de mi secreto",
+		"Fecha": "1995-09-17",
+		"Presupuesto": "4.00"
+	}, {
+		"Codigo": "8",
+		"Titulo": "La Corea",
+		"Fecha": "1976-01-01",
+		"Presupuesto": "5.00"
+	}],
+	"reparto": [{
+		"Codigo": "1",
+		"C_actor": "1",
+		"C_pelicula": "1"
+	}, {
+		"Codigo": "2",
+		"C_actor": "1",
+		"C_pelicula": "2"
+	}, {
+		"Codigo": "3",
+		"C_actor": "1",
+		"C_pelicula": "3"
+	}, {
+		"Codigo": "4",
+		"C_actor": "2",
+		"C_pelicula": "4"
+	}, {
+		"Codigo": "5",
+		"C_actor": "2",
+		"C_pelicula": "5"
+	}, {
+		"Codigo": "6",
+		"C_actor": "3",
+		"C_pelicula": "1"
+	}, {
+		"Codigo": "7",
+		"C_actor": "3",
+		"C_pelicula": "5"
+	}, {
+		"Codigo": "8",
+		"C_actor": "4",
+		"C_pelicula": "6"
+	}, {
+		"Codigo": "9",
+		"C_actor": "7",
+		"C_pelicula": "7"
+	}, {
+		"Codigo": "10",
+		"C_actor": "7",
+		"C_pelicula": "8"
+	}]
+}
