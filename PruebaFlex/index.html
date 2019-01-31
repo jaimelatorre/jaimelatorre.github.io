@@ -7,12 +7,22 @@
 	
 	<link rel="stylesheet" href="estilos.css"/>
 	<link rel="stylesheet" href="scrollbar.css"/>	
+	<script>
+
+		function tamanyo(){
+
+			document.getElementById("alto").innerHTML = window.screen.availHeight;
+			document.getElementById("ancho").innerHTML = window.screen.availWidth;
+		
+		}
+
 	
+	</script>
 </head>
-<body class="site">
+<body class="site" onload="tamanyo();">
 	
 	<header class="flexcentradoVH diez" id="capa1">
-		<h1>HEADER</h1>
+		<h2 id="ancho"></h2><h2 id="alto"></h2>
 	</header>	
 	<nav class="flexcentradoVH diez" id="capa2">
 		<h1>INICIO</h1><h1>INTERNACIONAL</h1><h1>NACIONAL</h1><h1>DEPORTES</h1>
