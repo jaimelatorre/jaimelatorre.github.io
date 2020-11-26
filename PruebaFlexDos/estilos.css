@@ -74,13 +74,14 @@ section h2{
 article{
 	border: solid 0.5vw black;
 	width:25vw;
-	min-width: 300px;
+	min-width: 350px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
 	align-content: space-around;
 	margin: 5vh;
 	transition: 1s all ease;
+	padding:2vmin;
 }
 
 article:hover{
@@ -91,13 +92,35 @@ article img{
 	width: 75%;
 }
 
-#fotos article p{
+#fotos article h3{
 	width: 100%;
 	text-align: center;
-	margin-top: 0.5vh;
+	margin-top: 2vh;
 }
 
 #textos article p{
 	padding: 1vw;
 }
+
+#mapasYvideos article{
+	width:35vw;
+	height:500px;
+	max-height: 50vh;
+	padding: 2vmin;
+}
+
+#mapasYvideos article h3{
+	width: 100%;
+	height: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#mapasYvideos article iframe{
+	width:80%;
+	height: 80%;
+}
+
 
