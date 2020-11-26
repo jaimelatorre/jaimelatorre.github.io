@@ -80,13 +80,9 @@ article{
 	justify-content: space-around;
 	align-content: space-around;
 	margin: 5vh;
-	transition: 1s all ease;
 	padding:2vmin;
 }
 
-article:hover{
-	transform: scale(1.25);
-}
 
 article img{
 	width: 75%;
