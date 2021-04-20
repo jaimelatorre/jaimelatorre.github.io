@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/*Para todos los elementos de la página*/
+
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/* 
+	HTML Y BODY
+	Ocupan el alto de la pantalla y desactivan el scroll 
+*/
+
+html, body {
+	height: 100vh;
+	width: 100vw;
+	font-size:calc(8px + 0.25vw);	
+	text-align: center;
+}
+
+/* Fondo blanco */
+
+body {
+	background-color: #FFFFFF;
+}
+
+.centrado {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: space-around;
+}
+
+/* CAPAS */
+
+/*
+	Cabecera
+	Ocupa el 10% de la pantalla y tiene un margen inferior del 1%
+*/
+
+header, footer {
+	height: 10%;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+
+article {
+	height: 45%;
+	width: 40%;
+	border: solid 1px black;
+	/* Shorthand property */
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px grey;
+	background-color: white;
+}
+
+article img {
+	height: 80%;
+	max-width:90%;
+}
+
+article h2 {
+	width: 100%;
+	height: 10%;
+}
+
+/* 
+	Cuerpo
+*/
+
+section {
+	width: 80%;
+	height: 80%;
+}
