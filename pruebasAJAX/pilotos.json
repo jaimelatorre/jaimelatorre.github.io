@@ -1,0 +1,158 @@
+{
+    "todoOK": true,
+    "escuderias": [
+        {
+            "id": "1",
+            "nombre": "Mercedes AMG",
+            "categoria": "Formula 1",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Lewis Hamilton",
+                    "continente": "Europa",
+                    "salario": "1000000"
+                },
+                {
+                    "nombre_piloto": "Valtteri Bottas",
+                    "continente": "America",
+                    "salario": "1250000"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "nombre": "Ferrari",
+            "categoria": "Formula 1",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Sebastian Vettel",
+                    "continente": "Europa",
+                    "salario": "800000"
+                },
+                {
+                    "nombre_piloto": "Kimi Raikkonen",
+                    "continente": "Europa",
+                    "salario": "2000000"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "nombre": "Haas F1",
+            "categoria": "Formula 1",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Romain Grosjean",
+                    "continente": "Europa",
+                    "salario": "2000000"
+                },
+                {
+                    "nombre_piloto": "Kevin Magnussen",
+                    "continente": "Europa",
+                    "salario": "500000"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "nombre": "Renault",
+            "categoria": "Formula 1",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Nicolas Hulkenberg",
+                    "continente": "Europa",
+                    "salario": "1000000"
+                },
+                {
+                    "nombre_piloto": "Jolyon Palmer",
+                    "continente": "Oceania",
+                    "salario": "500000"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "nombre": "McLaren Honda",
+            "categoria": "Formula 1",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Fernando Alonso",
+                    "continente": "Europa",
+                    "salario": "1000000"
+                },
+                {
+                    "nombre_piloto": "Stoffel Vandoorne",
+                    "continente": "Europa",
+                    "salario": "500000"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "nombre": "Red Bull",
+            "categoria": "Formula 1",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Daniel Ricciardo",
+                    "continente": "Europa",
+                    "salario": "750000"
+                },
+                {
+                    "nombre_piloto": "Max Verstappen",
+                    "continente": "Europa",
+                    "salario": "750000"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "nombre": "Force India",
+            "categoria": "Formula 1",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Sergio Perez",
+                    "continente": "America",
+                    "salario": "750000"
+                },
+                {
+                    "nombre_piloto": "Esteban Ocon",
+                    "continente": "America",
+                    "salario": "750000"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "nombre": "Sauber",
+            "categoria": "Formula Indy",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Marcus Ericsson",
+                    "continente": "Europa",
+                    "salario": "800000"
+                },
+                {
+                    "nombre_piloto": "Pascal Wehrlein",
+                    "continente": "Europa",
+                    "salario": "800000"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "nombre": "Williams",
+            "categoria": "Formula 2",
+            "pilotos": [
+                {
+                    "nombre_piloto": "Carlos Sainz",
+                    "continente": "Europa",
+                    "salario": "600000"
+                },
+                {
+                    "nombre_piloto": "Felipe Massa",
+                    "continente": "America",
+                    "salario": "600000"
+                }
+            ]
+        }
+    ]
+}
