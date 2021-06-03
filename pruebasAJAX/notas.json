@@ -1,7 +1,7 @@
 {
     "todoOK": true,
-    "asignatura": "Lengua",
-    "tipoAsignatura": "obligatoria",
+    "asignatura": "INFORMATICA",
+    "tipoAsignatura": "optativa",
     "calificaciones": [
         {
             "id": "1",
@@ -15,14 +15,14 @@
             "nombre": "Jackie Chan",
             "urlFoto": "img/jackie-chan.jpg",
             "nota": "7",
-            "comentario": "En general bien"
+            "comentario": "En general, bastante bien"
         },
         {
             "id": "3",
             "nombre": "Sr Clean",
             "urlFoto": "img/Sir-clean-l.png",
             "nota": "4",
-            "comentario": "Casi llega pero no"
+            "comentario": "Casi aprueba pero le faltó una actividad"
         },
         {
             "id": "4",
