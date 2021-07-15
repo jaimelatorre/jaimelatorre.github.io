@@ -19,14 +19,14 @@
             "id": 3,
             "titulo": "Vengadores - Infinity War",
             "sinopsis": "Thanos quiere las 5 gemas del infinito",
-            "cartel": "imagenes/avengersIII.png",
+            "cartel": "imagenes/avengersIII.jpg",
             "imdb": "https://www.imdb.com/title/tt4154756/"
         },
         {
             "id": 4,
             "titulo": "Vengadores - Endgame",
             "sinopsis": "Todos contra Thanos otra vez",
-            "cartel": "imagenes/avengersIV.png",
+            "cartel": "imagenes/avengersIV.jpg",
             "imdb": "https://www.imdb.com/title/tt4154796/"
         }
     ]
