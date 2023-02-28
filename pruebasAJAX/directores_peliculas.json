@@ -1,0 +1,30 @@
+{
+    "estado": "ok",
+    "directores": [
+        {
+            "idDirector": "1",
+            "nombreDirector": "Fernando Leon",
+            "peliculas": [
+                {
+                    "idPelicula": "1",
+                    "tituloPelicula": "El buen Patron"
+                }
+            ]
+        },
+        {
+            "idDirector": "2",
+            "nombreDirector": "Pedro Almodovar",
+            "peliculas": [
+                {
+                    "idPelicula": "2",
+                    "tituloPelicula": "Madres Paralelas"
+                }
+            ]
+        },
+        {
+            "idDirector": "3",
+            "nombreDirector": "Steven Spielberg",
+            "peliculas": []
+        }
+    ]
+}

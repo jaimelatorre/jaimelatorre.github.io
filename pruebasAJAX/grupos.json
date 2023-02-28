@@ -1,0 +1,25 @@
+{
+    "estado": "ok",
+    "grupos": [
+        {
+            "id": "1",
+            "nombre": "Extremoduro"
+        },
+        {
+            "id": "4",
+            "nombre": "Mecano"
+        },
+        {
+            "id": "7",
+            "nombre": "Mecanografia indisoluble"
+        },
+        {
+            "id": "8",
+            "nombre": "Dire Straits"
+        },
+        {
+            "id": "12",
+            "nombre": "Directos al mar"
+        }
+    ]
+}

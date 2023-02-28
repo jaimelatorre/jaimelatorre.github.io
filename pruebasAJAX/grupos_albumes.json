@@ -1,0 +1,62 @@
+{
+    "estado": "ok",
+    "grupos": [
+        {
+            "idGrupo": "1",
+            "nombreGrupo": "Extremoduro",
+            "albumes": [
+                {
+                    "idAlbum": "2",
+                    "tituloAlbum": "Historias prohibidas"
+                },
+                {
+                    "idAlbum": "3",
+                    "tituloAlbum": "Deltoya"
+                },
+                {
+                    "idAlbum": "4",
+                    "tituloAlbum": "Pedra"
+                }
+            ]
+        },
+        {
+            "idGrupo": "4",
+            "nombreGrupo": "Mecano",
+            "albumes": [
+                {
+                    "idAlbum": "1",
+                    "tituloAlbum": "Grandes exitos"
+                },
+                {
+                    "idAlbum": "5",
+                    "tituloAlbum": "Ailala"
+                }
+            ]
+        },
+        {
+            "idGrupo": "7",
+            "nombreGrupo": "Mecanografia indisoluble",
+            "albumes": []
+        },
+        {
+            "idGrupo": "8",
+            "nombreGrupo": "Dire Straits",
+            "albumes": [
+                {
+                    "idAlbum": "9",
+                    "tituloAlbum": "Alchemy"
+                }
+            ]
+        },
+        {
+            "idGrupo": "12",
+            "nombreGrupo": "Directos al mar",
+            "albumes": [
+                {
+                    "idAlbum": "6",
+                    "tituloAlbum": "Nuevos exitos"
+                }
+            ]
+        }
+    ]
+}

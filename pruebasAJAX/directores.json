@@ -1,0 +1,17 @@
+{
+    "estado": "ok",
+    "directores": [
+        {
+            "id": "1",
+            "nombre": "Fernando Leon"
+        },
+        {
+            "id": "2",
+            "nombre": "Pedro Almodovar"
+        },
+        {
+            "id": "3",
+            "nombre": "Steven Spielberg"
+        }
+    ]
+}
