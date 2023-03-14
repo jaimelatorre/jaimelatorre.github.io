@@ -1,0 +1,17 @@
+[ 
+	{
+	  "id" : "1",
+	  "nombre" : "Odontologia",
+	  "contador" : 7
+	}, 
+	{
+	  "id" : "2",
+	  "nombre" : "Cirugía menor",
+	  "contador" : 17
+	}, 
+	{
+	  "id" : "3",
+	  "nombre" : "Cirugía mayor",
+	  "contador" : 2
+	} 
+]
