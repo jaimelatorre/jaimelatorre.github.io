@@ -1,13 +1,13 @@
 {
-  estado: "OK",
-  mensaje: "Modificado correctamente",
-  esperado:{
+  "estado": "OK",
+  "mensaje": "Modificado correctamente",
+  "esperado":{
 		    	"peticion": "actualizar",
 		    	"especialidad": {
 		    		"id": 5,
 		        	"nombre": "Medicina interna",
 		        	"numero": 5
 		    	}
-			}
+	}
   
 }
